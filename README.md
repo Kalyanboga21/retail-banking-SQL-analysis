@@ -1,3 +1,4 @@
 # retail-banking-SQL-analysis
-This is my first Git Repository
+This is my first Git Repository.
+<br>
 Author - Boga Kalyan
