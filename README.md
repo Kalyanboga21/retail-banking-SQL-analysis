@@ -94,6 +94,10 @@ The database follows a relational structure with primary and foreign keys connec
 * Accounts → Cards
 * Loans → Loan_Payments
 
+## ER Diagram
+
+![Retail Banking ER Diagram](ER_Diagram/Retail_Banking_ER_Diagram.png)
+
 The ER diagram provides the complete database structure and relationships.
 
 ---
@@ -245,11 +249,11 @@ I worked on:
 
 ## Project Files
 
-* **SQL:** Complete database setup and analysis queries
-* **Datasets:** CSV files used for the analysis
-* **ER Diagram:** Visual representation of database relationships
-* **Presentation:** Project analysis, findings and recommendations
-* **Documentation:** Project requirements and analysis documentation
+- [SQL Analysis](SQL/)
+- [Datasets](Datasets/)
+- [ER Diagram](ER_Diagram/)
+- [Presentation](Presentation/)
+- [Documentation](Documentation/)
 
 ---
 
